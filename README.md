@@ -12,7 +12,7 @@ Purpose
 The primary goal of this portfolio website is to provide a comprehensive and professional online presence. It allows potential employers, collaborators, and clients to learn more about me and my work, and to connect with me effortlessly.
 
 # Technologies Used
-# HTML5: For the structure and content of the website.
-# CSS3: For styling and layout, including flexbox and grid for responsiveness.
+* HTML5: For the structure and content of the website.
+* CSS3: For styling and layout, including flexbox and grid for responsiveness.
 Feel free to explore the website and reach out to me through the contact form. I am always open to feedback and opportunities for collaboration. Thank you for visiting!
 
